@@ -145,21 +145,21 @@ namespace Bicycle
                 str += "电话号码不得为空！\n";
             if (school.Text == "")
                 str += "学校不得为空！\n";
-            //if (phoneNumber.Text != "") //判断电话号码是否合理
-            //{
-            //    System.String ex = "^[1][358][0-9]{9}$";
-            //    System.Text.RegularExpressions.Regex reg = new System.Text.RegularExpressions.Regex(ex);
-            //    if (!(reg.IsMatch(phoneNumber.Text)))
-            //        str += "电话号码不存在";
-            //}
-            //if (str != "")
-            //{
-            //    var i = new MessageDialog(str).ShowAsync();
-            //}
-            //else if (password.Password != passwordConfirm.Password)
-            //{
-            //    var i = new MessageDialog("新密码不一致，请重试！").ShowAsync();
-            //}
+            if (phoneNumber.Text != "") //判断电话号码是否合理
+            {
+                System.String ex = "^[1][358][0-9]{9}$";
+                System.Text.RegularExpressions.Regex reg = new System.Text.RegularExpressions.Regex(ex);
+                if (!(reg.IsMatch(phoneNumber.Text)))
+                    str += "电话号码不存在";
+            }
+            if (str != "")
+            {
+                var i = new MessageDialog(str).ShowAsync();
+            }
+            else if (password.Password != passwordConfirm.Password)
+            {
+                var i = new MessageDialog("新密码不一致，请重试！").ShowAsync();
+            }
             else
             {
                 //更新个人信息 
