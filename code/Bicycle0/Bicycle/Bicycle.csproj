@@ -151,11 +151,13 @@
     <Content Include="Assets\defaultUser.jpg" />
     <Content Include="Assets\favorite.jpg" />
     <Content Include="Assets\favorite.png" />
+    <Content Include="Assets\liuqi.jpg" />
     <Content Include="Assets\sellBike.png" />
     <Content Include="Assets\buyBike.png" />
     <Content Include="Assets\qrcode_for_gh_2be68ba73a48_430.jpg" />
     <Content Include="Assets\buy.png" />
     <Content Include="Assets\dabai.jpg" />
+    <Content Include="Assets\smallbike.jpg" />
     <Content Include="Assets\UCC.jpg" />
     <Content Include="Assets\sellBicycle.png" />
     <Content Include="Assets\sell.png" />
