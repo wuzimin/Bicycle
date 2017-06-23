@@ -8,8 +8,8 @@
     mc:Ignorable="d" Foreground="#FFE21254">
     <Page.BottomAppBar>
         <CommandBar>
-            <AppBarButton x:ConnectionId='1' x:Name="home" Icon="Home" Label="首页"                    />
-            <AppBarButton x:ConnectionId='2' Icon="Contact" Label="个人中心"                       />
+            <AppBarButton x:Name="home" Icon="Home" Label="首页" Click="home_button"/>
+            <AppBarButton Icon="Contact" Label="个人中心" Click="account_button"/>
         </CommandBar>
     </Page.BottomAppBar>
 
@@ -19,8 +19,8 @@
         </Grid.Background>
         <ScrollViewer>
             <StackPanel Margin="80">
-                <ListView x:ConnectionId='3' x:Name="bicycle_share" Foreground="#FFFBF9FA">
-                    <Image x:ConnectionId='4' x:Name="image" Source="Assets/dabai.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="206"/>
+                <ListView x:Name="bicycle_share" Foreground="#FFFBF9FA">
+                    <Image x:Name="image" Source="Assets/dabai.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="206"/>
                     <!--<TextBlock Text="车龄" Foreground="Black" Margin="20, 0, 0, 0"/>
                 <TextBlock Width="350" Height="80" Text="" x:Name="AgeOfBike"/>
                 <TextBlock Text="类型" Foreground="Black" Margin="20, 0, 0, 0"/>
@@ -34,34 +34,33 @@
 
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="类型"/>
-                        <TextBlock x:ConnectionId='11' Width="250" Height="80" Text="" Name="title" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="title" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="车龄"/>
-                        <TextBlock x:ConnectionId='10' Width="250" Height="80" Text="" Name="age" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="age" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="价格"/>
-                        <TextBlock x:ConnectionId='9' Width="250" Height="80" Text="" Name="price" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="price" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="联系方式"/>
-                        <TextBlock x:ConnectionId='8' Width="250" Height="80" Text="" Name="phonenumber" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="phonenumber" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="学校"/>
-                        <TextBlock x:ConnectionId='7' Width="250" Height="80" Text="" Name="school" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="school" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
                         <TextBlock Text="备注"/>
-                        <TextBlock x:ConnectionId='6' Width="250" Height="80" Text="" Name="description" RelativePanel.AlignRightWithPanel="True"/>
+                        <TextBlock Width="250" Height="80" Text="" Name="description" RelativePanel.AlignRightWithPanel="True"/>
                     </RelativePanel>
                     <RelativePanel Width="350" Margin="0,24,0,0">
-                        <AppBarButton x:ConnectionId='5' x:Name="share" Icon="Mail" Label="分享"                      HorizontalAlignment="Left" Margin="0 0 100 0" Foreground="#FFFBF9F9" Width="80" Height="60" FontSize="18.667" FontFamily="Adobe Caslon Pro Bold" Background="#FF7BCB39"/>
+                        <AppBarButton x:Name="share" Icon="Mail" Label="分享" Click="share_button" HorizontalAlignment="Left" Margin="0 0 100 0" Foreground="#FFFBF9F9" Width="80" Height="60" FontSize="18.667" FontFamily="Adobe Caslon Pro Bold" Background="#FF7BCB39"/>
                     </RelativePanel>
                 </ListView>
             </StackPanel>
         </ScrollViewer>
     </Grid>
 </Page>
-

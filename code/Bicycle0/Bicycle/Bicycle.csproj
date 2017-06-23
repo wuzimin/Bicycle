@@ -98,6 +98,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Bicycle_details.xaml.cs">
+      <DependentUpon>Bicycle_details.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Buy.xaml.cs">
       <DependentUpon>Buy.xaml</DependentUpon>
     </Compile>
@@ -158,6 +161,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Bicycle_details.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Buy.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
