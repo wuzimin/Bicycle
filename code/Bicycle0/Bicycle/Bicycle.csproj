@@ -124,6 +124,9 @@
     <Compile Include="Sign_up.xaml.cs">
       <DependentUpon>Sign_up.xaml</DependentUpon>
     </Compile>
+    <Compile Include="useraccount.xaml.cs">
+      <DependentUpon>useraccount.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModels\SellItemViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +202,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Sign_up.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="useraccount.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
