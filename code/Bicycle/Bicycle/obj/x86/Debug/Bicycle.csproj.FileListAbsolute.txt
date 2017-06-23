@@ -1,0 +1,1696 @@
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\App.xaml
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\MainPage.xaml
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\App.xbf
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\Bicycle\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\App.g.i.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\App.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\sign_in.g.i.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\sign_in.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\App.xaml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\MainPage.xaml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\sign_in.xaml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\App.xbf
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\MainPage.xbf
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\sign_in.xbf
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\ApplicationInsights.config
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\App.xbf
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\MainPage.xbf
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\sign_in.xbf
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Bicycle.exe
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Bicycle.pdb
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\resources.pri
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\AppxManifest.xml
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Core.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Windows.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.AppContext.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Collections.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Data.Common.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\ClrCompression.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Linq.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.Http.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle.exe
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle.pdb
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\priconfig.xml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\layout.resfiles
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\resources.resfiles
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\pri.resfiles
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\qualifiers.txt
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Sign_up.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Sign_up.xaml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Sign_up.xbf
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Sign_up.xbf
+E:\新建文件夹\Bicycle\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+E:\新建文件夹\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\ApplicationInsights.config
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\resources.pri
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Core.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Windows.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.AppContext.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Data.Common.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\ClrCompression.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\App.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\App.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle\bin\x86\Debug\recorrect.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ApplicationInsights.config
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\App.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Buy.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\recorrect.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sell.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_up.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_in.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\MainPage.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\useraccount.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.exe
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.pdb
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\resources.pri
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\AppxManifest.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Core.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Windows.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.AppContext.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Data.Common.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ClrCompression.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.exe
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.pdb
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\collection.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\mysell.xbf
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.i.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.cs
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xaml
+E:\下载\大二下\大二下\自己\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ApplicationInsights.config
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\collection.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\mysell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\recorrect.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\resources.pri
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Core.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Windows.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.AppContext.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Data.Common.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ClrCompression.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xaml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xbf
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\admin\Desktop\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ApplicationInsights.config
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\App.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Buy.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\collection.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\mysell.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\recorrect.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sell.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_up.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Sign_in.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\MainPage.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\useraccount.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.exe
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.pdb
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\resources.pri
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\AppxManifest.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Core.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Windows.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.AppContext.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Data.Common.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\ClrCompression.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xaml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\App.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\collection.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xbf
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.exe
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.pdb
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+D:\vs2015\project\Bicycle 2\Bicycle 2\Bicycle 2\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\ApplicationInsights.config
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\collection.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\mysell.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\recorrect.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\resources.pri
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Core.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Windows.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\SQLitePCL.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.AppContext.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Data.Common.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\ClrCompression.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\App.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Buy.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\collection.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\mysell.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sell.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\App.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\collection.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xaml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\App.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Buy.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\collection.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\mysell.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\recorrect.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sell.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_up.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Sign_in.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\MainPage.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\useraccount.xbf
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.exe
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.pdb
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\admin\Desktop\Bicycle_version6\Bicycle 2\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
+E:\Bicycle\Bicycle\obj\x86\Debug\App.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\App.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Buy.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Buy.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\collection.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\collection.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\mysell.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\mysell.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\recorrect.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\recorrect.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sell.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sell.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_up.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_up.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_in.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_in.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\MainPage.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\useraccount.g.i.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\useraccount.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\App.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\Buy.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\collection.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\mysell.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\recorrect.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\Sell.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_up.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_in.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\MainPage.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\useraccount.xaml
+E:\Bicycle\Bicycle\obj\x86\Debug\App.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle_details.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\Buy.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\collection.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\mysell.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\recorrect.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\Sell.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_up.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\Sign_in.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\MainPage.xbf
+E:\Bicycle\Bicycle\obj\x86\Debug\useraccount.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\ApplicationInsights.config
+E:\Bicycle\Bicycle\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\Bicycle\Bicycle\bin\x86\Debug\App.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle_details.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Buy.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\collection.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\mysell.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\recorrect.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Sell.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Sign_up.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Sign_in.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\MainPage.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\useraccount.xbf
+E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.xr.xml
+E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.exe
+E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.pdb
+E:\Bicycle\Bicycle\bin\x86\Debug\resources.pri
+E:\Bicycle\Bicycle\bin\x86\Debug\AppxManifest.xml
+E:\Bicycle\Bicycle\bin\x86\Debug\Core\AppxManifest.xml
+E:\Bicycle\Bicycle\bin\x86\Debug\Core\Bicycle.exe
+E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.build.appxrecipe
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.CSharp.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Core.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Windows.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.Linq.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.Serialization.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\SQLitePCL.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.AppContext.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Collections.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Immutable.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Collections.Specialized.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Data.Common.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.Compression.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\ClrCompression.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.FileSystem.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Linq.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Expressions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Parallel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Linq.Queryable.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.Http.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.Requests.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.Sockets.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ObjectModel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Private.Networking.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Private.Uri.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Context.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Handles.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Security.Claims.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Security.Principal.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Threading.Timer.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XDocument.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\Bicycle\Bicycle\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle.csprojResolveAssemblyReference.cache
+E:\Bicycle\Bicycle\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Bicycle\Bicycle\obj\x86\Debug\XamlSaveStateFile.xml
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle.exe
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle.pdb
+E:\Bicycle\Bicycle\obj\x86\Debug\ResourceHandlingTask.state
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+E:\Bicycle\Bicycle\obj\x86\Debug\Bicycle.csproj.GenerateResource.Cache
+E:\Bicycle\Bicycle\obj\x86\Debug\priconfig.xml
+E:\Bicycle\Bicycle\obj\x86\Debug\priconfig.xml.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\layout.resfiles
+E:\Bicycle\Bicycle\obj\x86\Debug\layout.resfiles.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\resources.resfiles
+E:\Bicycle\Bicycle\obj\x86\Debug\resources.resfiles.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\pri.resfiles
+E:\Bicycle\Bicycle\obj\x86\Debug\pri.resfiles.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\qualifiers.txt
+E:\Bicycle\Bicycle\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Bicycle\Bicycle\obj\x86\Debug\resources.en.resfiles
+E:\Bicycle\Bicycle\obj\x86\Debug\resources.en.resfiles.intermediate
+E:\Bicycle\Bicycle\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+E:\Bicycle\Bicycle\obj\x86\Debug\ProjectArchitectures.txt
