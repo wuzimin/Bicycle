@@ -1,0 +1,67 @@
+﻿<Page
+    x:Class="Bicycle.Bicycle_details"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bicycle"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Foreground="#FFE21254">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' x:Name="home" Icon="Home" Label="首页"                    />
+            <AppBarButton x:ConnectionId='2' Icon="Contact" Label="个人中心"                       />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bike7.jpg" />
+        </Grid.Background>
+        <ScrollViewer>
+            <StackPanel Margin="80">
+                <ListView x:ConnectionId='3' x:Name="bicycle_share" Foreground="#FFFBF9FA">
+                    <Image x:ConnectionId='4' x:Name="image" Source="Assets/dabai.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="206"/>
+                    <!--<TextBlock Text="车龄" Foreground="Black" Margin="20, 0, 0, 0"/>
+                <TextBlock Width="350" Height="80" Text="" x:Name="AgeOfBike"/>
+                <TextBlock Text="类型" Foreground="Black" Margin="20, 0, 0, 0"/>
+                <TextBlock Width="350" Height="80" Text="" x:Name="TypeOfBike"/>
+                <TextBlock Text="价格" Foreground="Black" Margin="20, 0, 0, 0"/>
+                <TextBlock Width="350" Height="80" Text="" x:Name="PriceOfBike"/>
+                <TextBlock Text="介绍" Foreground="Black" Margin="20, 0, 0, 0"/>
+                <TextBlock Width="350" Height="80" Text="" x:Name="DetailsOfBike"/>
+                <TextBlock Text="联系方式" Foreground="Black" Margin="20, 0, 0, 0"/>
+                <TextBlock Width="350" Height="80" Text="" x:Name="phoneNumber"/>-->
+
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="类型"/>
+                        <TextBlock x:ConnectionId='11' Width="250" Height="80" Text="" Name="title" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="车龄"/>
+                        <TextBlock x:ConnectionId='10' Width="250" Height="80" Text="" Name="age" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="价格"/>
+                        <TextBlock x:ConnectionId='9' Width="250" Height="80" Text="" Name="price" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="联系方式"/>
+                        <TextBlock x:ConnectionId='8' Width="250" Height="80" Text="" Name="phonenumber" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="学校"/>
+                        <TextBlock x:ConnectionId='7' Width="250" Height="80" Text="" Name="school" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <TextBlock Text="备注"/>
+                        <TextBlock x:ConnectionId='6' Width="250" Height="80" Text="" Name="description" RelativePanel.AlignRightWithPanel="True"/>
+                    </RelativePanel>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <AppBarButton x:ConnectionId='5' x:Name="share" Icon="Mail" Label="分享"                      HorizontalAlignment="Left" Margin="0 0 100 0" Foreground="#FFFBF9F9" Width="80" Height="60" FontSize="18.667" FontFamily="Adobe Caslon Pro Bold" Background="#FF7BCB39"/>
+                    </RelativePanel>
+                </ListView>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
