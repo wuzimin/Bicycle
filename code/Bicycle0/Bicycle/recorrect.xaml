@@ -8,8 +8,8 @@
     mc:Ignorable="d" Foreground="#FFE21254">
     <Page.BottomAppBar>
         <CommandBar>
-            <AppBarButton x:ConnectionId='1' x:Name="home" Icon="Home" Label="首页"                    />
-            <AppBarButton x:ConnectionId='2' Icon="Contact" Label="个人中心"                       />
+            <AppBarButton x:Name="home" Icon="Home" Label="首页" Click="home_button"/>
+            <AppBarButton Icon="Contact" Label="个人中心" Click="account_button"/>
         </CommandBar>
     </Page.BottomAppBar>
 
@@ -19,12 +19,12 @@
         </Grid.Background>
         <ScrollViewer>
             <StackPanel>
-                <TextBlock x:ConnectionId='3' x:Name="correct" Text="{Binding _account}" Foreground="#FF0C0B0B" FontSize="32"/>
+                <TextBlock x:Name="correct" Text="{Binding _account}" Foreground="#FF0C0B0B" FontSize="32"/>
                 <!--<TextBlock x:Name="userAccount" Text="{Binding _account}" Foreground="#FF0C0C0C" FontSize="26.667"/>-->
-                <Image x:ConnectionId='4' x:Name="image" Source="Assets/dabai.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="248"/>
+                <Image x:Name="image" Source="Assets/dabai.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="250" Width="248"/>
 
                 <RelativePanel Width="300">
-                    <AppBarButton x:ConnectionId='11' x:Name="picture_selection" Icon="Pictures" Label="select" RelativePanel.AlignRightWithPanel="True"                                />
+                    <AppBarButton x:Name="picture_selection" Icon="Pictures" Label="select" RelativePanel.AlignRightWithPanel="True" Click="picture_selection_Click"/>
                 </RelativePanel>
 
                 <!--<RelativePanel Width="200">
@@ -34,16 +34,15 @@
                     <Button x:Name="selling_bike" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Height="80" Width="80" RelativePanel.AlignRightWithPanel="True" Click="selling_bike_Click"/>
                 </RelativePanel>-->
 
-                <PasswordBox x:ConnectionId='5' Header="当前密码" Width="350" Height="80" Password ="" Name="before"/>
-                <PasswordBox x:ConnectionId='6' Header="修改密码" Width="350" Height="80" Password ="" Name="password"/>
-                <PasswordBox x:ConnectionId='7' Header="确认密码" Width="350" Height="80" Password ="" Name="passwordConfirm"/>
-                <TextBox x:ConnectionId='8' Header="修改绑定手机" Width="350" Height="80" Text="" Name="phoneNumber"/>
-                <TextBox x:ConnectionId='9' Header="修改学校" Width="350" Height="80" Text="" Name="school"/>
+                <PasswordBox Header="当前密码" Width="350" Height="80" Password ="" Name="before"/>
+                <PasswordBox Header="修改密码" Width="350" Height="80" Password ="" Name="password"/>
+                <PasswordBox Header="确认密码" Width="350" Height="80" Password ="" Name="passwordConfirm"/>
+                <TextBox Header="修改绑定手机" Width="350" Height="80" Text="" Name="phoneNumber"/>
+                <TextBox Header="修改学校" Width="350" Height="80" Text="" Name="school"/>
                 <RelativePanel Width="350">
-                    <Button x:ConnectionId='10' x:Name="SignUp" Content="提交" RelativePanel.AlignRightWithPanel="True"                      Margin="0,30,0,0" Background="#FF83D66A" Foreground="#FFFDFDFD" Height="40" Width="90"/>
+                    <Button x:Name="SignUp" Content="提交" RelativePanel.AlignRightWithPanel="True" Click="SignUp_Click" Margin="0,30,0,0" Background="#FF83D66A" Foreground="#FFFDFDFD" Height="40" Width="90"/>
                 </RelativePanel>
             </StackPanel>
         </ScrollViewer>
     </Grid>
 </Page>
-

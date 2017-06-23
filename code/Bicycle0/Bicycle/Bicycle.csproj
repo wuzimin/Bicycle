@@ -115,6 +115,9 @@
       <DependentUpon>mysell.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recorrect.xaml.cs">
+      <DependentUpon>recorrect.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Sell.xaml.cs">
       <DependentUpon>Sell.xaml</DependentUpon>
     </Compile>
@@ -190,6 +193,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="mysell.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="recorrect.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
