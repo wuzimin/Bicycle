@@ -1,1 +1,0 @@
-E:\Bicycle\Bicycle\Bicycle.csproj;x86
