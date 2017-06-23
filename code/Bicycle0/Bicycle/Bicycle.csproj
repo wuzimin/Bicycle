@@ -104,6 +104,9 @@
     <Compile Include="Buy.xaml.cs">
       <DependentUpon>Buy.xaml</DependentUpon>
     </Compile>
+    <Compile Include="collection.xaml.cs">
+      <DependentUpon>collection.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Models\SellItem.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -166,6 +169,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Buy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="collection.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
