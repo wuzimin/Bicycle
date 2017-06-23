@@ -28,6 +28,7 @@
                 </RelativePanel>
 
                 <!--<RelativePanel Width="200">
+                <<Image Source="Assets/favorite.jpg">
                     <Image Source="Assets/favorite.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="80" Width="80"/>
                     <Button x:Name="favorite" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Height="80" Width="80" Click="favorite_button"/>
                     <Image Source="Assets/bike.jpg" HorizontalAlignment="Center" VerticalAlignment="Center" Height="80" Width="80" RelativePanel.AlignRightWithPanel="True"/>
