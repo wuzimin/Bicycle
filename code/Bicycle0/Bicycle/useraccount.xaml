@@ -18,6 +18,7 @@
             <ImageBrush ImageSource="Assets/bike1.jpg" />
         </Grid.Background>
         <ScrollViewer>
+
             <StackPanel>
                 <TextBlock x:Name="userAccount" Text="{Binding _account}" Foreground="#FF0C0B0B" FontSize="32"/>
                 <!--<TextBlock x:Name="userAccount" Text="{Binding _account}" Foreground="#FF0C0C0C" FontSize="26.667"/>-->
@@ -42,8 +43,11 @@
 
 
                 <TextBlock x:Name="account" Height="43" TextWrapping="Wrap" Text="账户：" Width="300" FontSize="20" Foreground="#FF232021" Margin="0,30,0,0"/>
+
                 <TextBlock x:Name="userphone" Height="43" TextWrapping="Wrap" Text="联系方式：" Width="300" FontSize="20" Foreground="#FF232021"/>
+
                 <TextBlock x:Name="school" Height="43" TextWrapping="Wrap" Text="学校：" Width="300" FontSize="20" Foreground="#FF201E1F"/>
+                
                 <Button x:Name="button" Content="退出登录" HorizontalAlignment="Stretch" Height="42" VerticalAlignment="Stretch" Width="157" Foreground="White" Background="#FFE62E2E" FontSize="17.333" BorderBrush="{x:Null}" Margin="0,10,0,0" Click="log_out"/>
 
 

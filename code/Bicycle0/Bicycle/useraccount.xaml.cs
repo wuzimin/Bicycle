@@ -18,7 +18,6 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Imaging;
 using Windows.UI.Xaml.Navigation;
 
-// “空白页”项模板在 http://go.microsoft.com/fwlink/?LinkId=234238 上提供
 
 namespace Bicycle
 {
@@ -60,6 +59,7 @@ namespace Bicycle
 
                 }
             }
+            
             catch (Exception ex)
             {
                 var j = new MessageDialog(ex.ToString()).ShowAsync();
