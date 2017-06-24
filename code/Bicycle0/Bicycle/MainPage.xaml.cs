@@ -26,7 +26,53 @@ namespace Bicycle
     {
         public MainPage()
         {
-           
+            this.InitializeComponent();
+            var viewTitleBar = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView().TitleBar;
+            viewTitleBar.BackgroundColor = Windows.UI.Colors.DarkGreen;
+            viewTitleBar.ButtonBackgroundColor = Windows.UI.Colors.DarkGreen;
         }
-        
+        public string username = "";
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            try //得到用户信息
+            {
+                username = e.Parameter.ToString();
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
+
+        private void buy_button(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(Buy), username);
+        }
+
+        private void sell_button(object sender, RoutedEventArgs e) //跳转到卖车界面，卖车需要先注册登录
+        {
+            //if (username == "")
+            //{
+            //    var i = new MessageDialog("请先登陆！").ShowAsync();
+            //    Frame.Navigate(typeof(Sign_in));
+            //}
+            //else
+            //{
+            //    Frame.Navigate(typeof(Sell), username);
+            //}
+        }
+
+        private void account_button(object sender, RoutedEventArgs e) //个人中心
+        {
+            //if (username == "")
+            //{
+            //    Frame.Navigate(typeof(Sign_in));
+            //}
+            //else
+            //{
+            //    Frame.Navigate(typeof(useraccount), username);
+            //}
+        }
+
+    }
 }
