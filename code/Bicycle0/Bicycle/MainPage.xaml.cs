@@ -34,14 +34,14 @@ namespace Bicycle
         public string username = "";
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            try //得到用户信息
-            {
-                username = e.Parameter.ToString();
-            }
-            catch (Exception ex)
-            {
+            //try //得到用户信息
+            //{
+            //    username = e.Parameter.ToString();
+            //}
+            //catch (Exception ex)
+            //{
 
-            }
+            //}
         }
 
         private void buy_button(object sender, RoutedEventArgs e)
