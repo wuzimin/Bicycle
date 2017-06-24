@@ -92,24 +92,24 @@ namespace Bicycle
 
         private void OnShareDataRequested(DataTransferManager sender, DataRequestedEventArgs args) // share
         {
-            //try
-            //{
-            //    var request = args.Request;
-            //    request.Data.Properties.Title = ("we share!");
-            //    request.Data.Properties.Description = ("my bicycle, my favorite!");
-            //    string content = ("车辆类型：  " + title.Text
-            //                    + "\n价格：      " + price.Text
-            //                    + "\n使用年限：  " + age.Text
-            //                    + "\n学校：      " + school.Text
-            //                    + "\n备注：      " + description.Text
-            //                    + "\n联系电话：  " + phonenumber.Text
-            //                    + "\n");
-            //    request.Data.SetText(content.Trim());
-            //}
-            //catch (Exception ex)
-            //{
-            //    var i = new MessageDialog(ex.ToString()).ShowAsync();
-            //}
+            try
+            {
+                var request = args.Request;
+                request.Data.Properties.Title = ("we share!");
+                request.Data.Properties.Description = ("my bicycle, my favorite!");
+                string content = ("车辆类型：  " + title.Text
+                                + "\n价格：      " + price.Text
+                                + "\n使用年限：  " + age.Text
+                                + "\n学校：      " + school.Text
+                                + "\n备注：      " + description.Text
+                                + "\n联系电话：  " + phonenumber.Text
+                                + "\n");
+                request.Data.SetText(content.Trim());
+            }
+            catch (Exception ex)
+            {
+                var i = new MessageDialog(ex.ToString()).ShowAsync();
+            }
         }
 
         private void home_button(object sender, RoutedEventArgs e) //回到主页
@@ -119,14 +119,14 @@ namespace Bicycle
 
         private void account_button(object sender, RoutedEventArgs e)
         {
-            //if (username == "")
-            //{
-            //    Frame.Navigate(typeof(Sign_in));
-            //}
-            //else
-            //{
-            //    Frame.Navigate(typeof(useraccount), username);
-            //}
+            if (username == "")
+            {
+                Frame.Navigate(typeof(Sign_in));
+            }
+            else
+            {
+                Frame.Navigate(typeof(useraccount), username);
+            }
         }
     }
 }
