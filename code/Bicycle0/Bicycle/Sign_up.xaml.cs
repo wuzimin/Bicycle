@@ -68,14 +68,14 @@ namespace Bicycle
             BinaryReader br = new BinaryReader(fs);
             photo = br.ReadBytes((int)fs.Length);
             //判断一些条件
-            if (account.Text == "")
-                str += "账号不得为空\n";
-            if (password.Password == "" || passwordConfirm.Password == "")
-                str += "密码不得为空\n";
-            if (phoneNumber.Text == "")
-                str += "电话号码不得为空\n";
-            if (school.Text == "")
-                str += "学校不得为空\n";
+            //if (account.Text == "")
+            //    str += "账号不得为空\n";
+            //if (password.Password == "" || passwordConfirm.Password == "")
+            //    str += "密码不得为空\n";
+            //if (phoneNumber.Text == "")
+            //    str += "电话号码不得为空\n";
+            //if (school.Text == "")
+            //    str += "学校不得为空\n";
             if (phoneNumber.Text != "") //判断电话号码是否合理
             {
                 System.String ex = "^[1][358][0-9]{9}$";
