@@ -51,27 +51,27 @@ namespace Bicycle
 
         private void sell_button(object sender, RoutedEventArgs e) //跳转到卖车界面，卖车需要先注册登录
         {
-            //if (username == "")
-            //{
-            //    var i = new MessageDialog("请先登陆！").ShowAsync();
-            //    Frame.Navigate(typeof(Sign_in));
-            //}
-            //else
-            //{
-            //    Frame.Navigate(typeof(Sell), username);
-            //}
+            if (username == "")
+            {
+                var i = new MessageDialog("请先登陆！").ShowAsync();
+                Frame.Navigate(typeof(Sign_in));
+            }
+            else
+            {
+                Frame.Navigate(typeof(Sell), username);
+            }
         }
 
         private void account_button(object sender, RoutedEventArgs e) //个人中心
         {
-            //if (username == "")
-            //{
-            //    Frame.Navigate(typeof(Sign_in));
-            //}
-            //else
-            //{
-            //    Frame.Navigate(typeof(useraccount), username);
-            //}
+            if (username == "")
+            {
+                Frame.Navigate(typeof(Sign_in));
+            }
+            else
+            {
+                Frame.Navigate(typeof(useraccount), username);
+            }
         }
 
     }
