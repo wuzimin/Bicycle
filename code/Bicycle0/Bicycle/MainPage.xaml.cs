@@ -64,28 +64,15 @@ namespace Bicycle
 
         private void account_button(object sender, RoutedEventArgs e) //个人中心
         {
-<<<<<<< HEAD
+
             if (username == "")
             {
                 Frame.Navigate(typeof(Sign_in));
             }
-=======
-            //if (username == "")
-            //{
-            //    Frame.Navigate(typeof(Sign_in));
-            //}
-<<<<<<< HEAD
-            //else
-            //{
-            //    Frame.Navigate(typeof(useraccount), username);
-            //}
-=======
->>>>>>> 3ec0f4edd025767a76b5140def6aa26c8e9494cc
             else
             {
                 Frame.Navigate(typeof(useraccount), username);
             }
->>>>>>> 545053203878ca9b308d9403f0ea3c52e1ff6a89
         }
 
     }
