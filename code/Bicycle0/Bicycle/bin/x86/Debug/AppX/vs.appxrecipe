@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>21fad859-4fc1-47a9-8037-7631b35303ca</PackageIdentityName>
     <PackageIdentityPublisher>CN=Administrator</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\Bicycle\Bicycle\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\zhangling\code\Bicycle0\Bicycle\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Bicycle\Bicycle\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="E:\zhangling\code\Bicycle0\Bicycle\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-23T10:10:05.506</Modified>
+      <Modified>2017-06-24T02:05:56.606</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.exe">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\bin\x86\Debug\Bicycle.exe">
       <PackagePath>entrypoint\Bicycle.exe</PackagePath>
-      <Modified>2017-06-23T10:09:53.433</Modified>
+      <Modified>2017-06-24T02:05:41.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -472,155 +472,163 @@
       <PackagePath>SQLitePCL.Ext.dll</PackagePath>
       <Modified>2016-03-30T05:27:05.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\ApplicationInsights.config">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
-      <Modified>2016-05-03T07:52:08.000</Modified>
+      <Modified>2017-06-24T01:49:06.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bicycle.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bicycle.jpg">
       <PackagePath>Assets\bicycle.jpg</PackagePath>
-      <Modified>2016-05-03T11:18:08.000</Modified>
+      <Modified>2017-06-24T01:49:06.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike.jpg">
       <PackagePath>Assets\bike.jpg</PackagePath>
-      <Modified>2016-05-13T07:30:20.000</Modified>
+      <Modified>2017-06-24T01:49:06.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike1.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike1.jpg">
       <PackagePath>Assets\bike1.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike2.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike2.jpg">
       <PackagePath>Assets\bike2.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike3.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike3.jpg">
       <PackagePath>Assets\bike3.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike4.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike4.jpg">
       <PackagePath>Assets\bike4.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike5.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike5.jpg">
       <PackagePath>Assets\bike5.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike6.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike6.jpg">
       <PackagePath>Assets\bike6.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\bike7.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\bike7.jpg">
       <PackagePath>Assets\bike7.jpg</PackagePath>
-      <Modified>2016-05-14T05:42:06.000</Modified>
+      <Modified>2017-06-24T01:49:06.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\defaultUser.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\defaultUser.jpg">
       <PackagePath>Assets\defaultUser.jpg</PackagePath>
-      <Modified>2016-05-13T08:41:46.000</Modified>
+      <Modified>2017-06-24T01:49:06.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\favorite.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\favorite.jpg">
       <PackagePath>Assets\favorite.jpg</PackagePath>
-      <Modified>2016-05-08T03:34:26.000</Modified>
+      <Modified>2017-06-24T01:49:06.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\qrcode_for_gh_2be68ba73a48_430.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\liuqi.jpg">
+      <PackagePath>Assets\liuqi.jpg</PackagePath>
+      <Modified>2017-06-24T01:49:06.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\qrcode_for_gh_2be68ba73a48_430.jpg">
       <PackagePath>Assets\qrcode_for_gh_2be68ba73a48_430.jpg</PackagePath>
-      <Modified>2016-05-06T02:34:50.000</Modified>
+      <Modified>2017-06-24T01:49:06.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\dabai.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\dabai.jpg">
       <PackagePath>Assets\dabai.jpg</PackagePath>
-      <Modified>2016-05-06T05:55:22.000</Modified>
+      <Modified>2017-06-24T01:49:06.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\UCC.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\smallbike.jpg">
+      <PackagePath>Assets\smallbike.jpg</PackagePath>
+      <Modified>2017-06-24T01:49:06.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\UCC.jpg">
       <PackagePath>Assets\UCC.jpg</PackagePath>
-      <Modified>2016-05-08T08:25:38.000</Modified>
+      <Modified>2017-06-24T01:49:06.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\富士.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\富士.jpg">
       <PackagePath>Assets\富士.jpg</PackagePath>
-      <Modified>2016-05-08T08:24:40.000</Modified>
+      <Modified>2017-06-24T01:49:06.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\山地自行车.jpg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\山地自行车.jpg">
       <PackagePath>Assets\山地自行车.jpg</PackagePath>
-      <Modified>2016-05-08T08:21:52.000</Modified>
+      <Modified>2017-06-24T01:49:06.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\favorite.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\favorite.png">
       <PackagePath>Assets\favorite.png</PackagePath>
-      <Modified>2016-05-13T09:39:56.000</Modified>
+      <Modified>2017-06-24T01:49:06.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\sellBike.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\sellBike.png">
       <PackagePath>Assets\sellBike.png</PackagePath>
-      <Modified>2016-05-13T07:11:46.000</Modified>
+      <Modified>2017-06-24T01:49:06.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\buyBike.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\buyBike.png">
       <PackagePath>Assets\buyBike.png</PackagePath>
-      <Modified>2016-05-13T07:11:14.000</Modified>
+      <Modified>2017-06-24T01:49:06.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\buy.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\buy.png">
       <PackagePath>Assets\buy.png</PackagePath>
-      <Modified>2016-05-06T02:39:10.000</Modified>
+      <Modified>2017-06-24T01:49:06.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\sellBicycle.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\sellBicycle.png">
       <PackagePath>Assets\sellBicycle.png</PackagePath>
-      <Modified>2016-05-13T07:41:12.000</Modified>
+      <Modified>2017-06-24T01:49:06.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\sell.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\sell.png">
       <PackagePath>Assets\sell.png</PackagePath>
-      <Modified>2016-05-13T07:41:12.000</Modified>
+      <Modified>2017-06-24T01:49:06.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\eew.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\eew.png">
       <PackagePath>Assets\eew.png</PackagePath>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\1111.png">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\1111.png">
       <PackagePath>Assets\1111.png</PackagePath>
-      <Modified>2015-10-10T13:09:42.000</Modified>
+      <Modified>2017-06-24T01:49:06.782</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Assets\死飞.jpeg">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Assets\死飞.jpeg">
       <PackagePath>Assets\死飞.jpeg</PackagePath>
-      <Modified>2016-05-08T08:22:58.000</Modified>
+      <Modified>2017-06-24T01:49:06.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-05-03T07:49:50.000</Modified>
+      <Modified>2017-06-24T01:49:06.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\bin\x86\Debug\Bicycle.xr.xml">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\bin\x86\Debug\Bicycle.xr.xml">
       <PackagePath>Bicycle.xr.xml</PackagePath>
-      <Modified>2016-05-14T14:59:26.000</Modified>
+      <Modified>2017-06-24T02:05:40.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-06-04T16:41:54.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-13T09:37:00.676</Modified>
+      <Modified>2017-06-24T02:05:53.653</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Bicycle\Bicycle\bin\x86\Debug\Core\Bicycle.exe">
+    <AppxPackagedFile Include="E:\zhangling\code\Bicycle0\Bicycle\bin\x86\Debug\Core\Bicycle.exe">
       <PackagePath>Bicycle.exe</PackagePath>
-      <Modified>2017-06-23T10:10:05.432</Modified>
+      <Modified>2017-06-24T02:05:56.600</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
