@@ -194,14 +194,14 @@ namespace Bicycle
 
         private void account_button(object sender, RoutedEventArgs e) //个人中心
         {
-            if (username == "")
-            {
-                Frame.Navigate(typeof(Sign_in));
-            }
-            else
-            {
-                Frame.Navigate(typeof(useraccount), username);
-            }
+            //if (username == "")
+            //{
+            //    Frame.Navigate(typeof(Sign_in));
+            //}
+            //else
+            //{
+            //    Frame.Navigate(typeof(useraccount), username);
+            //}
         }
 
         private void home_button(object sender, RoutedEventArgs e) //主页面
