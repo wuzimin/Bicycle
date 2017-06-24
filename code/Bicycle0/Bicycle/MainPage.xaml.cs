@@ -68,10 +68,17 @@ namespace Bicycle
             //{
             //    Frame.Navigate(typeof(Sign_in));
             //}
+<<<<<<< HEAD
             //else
             //{
             //    Frame.Navigate(typeof(useraccount), username);
             //}
+=======
+            else
+            {
+                Frame.Navigate(typeof(useraccount), username);
+            }
+>>>>>>> 545053203878ca9b308d9403f0ea3c52e1ff6a89
         }
 
     }
