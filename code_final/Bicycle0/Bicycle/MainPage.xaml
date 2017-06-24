@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="Bicycle.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bicycle"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>  <!--个人中心按钮-->
+        <CommandBar>
+            <AppBarButton Icon="Contact" Label="个人中心" Click="account_button"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bike2.jpg" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <ScrollViewer>
+                <StackPanel>
+                    <TextBlock x:Name="Title" Height="40" Text="车来车往" FontSize="25" FontWeight="Bold"  Width="239"  TextAlignment="Center" Margin="0, 10, 0, 10" />
+                    <Image x:Name="image" Source="Assets/bike.jpg" HorizontalAlignment="Center" Height="200" Width="300" Margin="0, 0, 0, 15"/>
+
+                    <RelativePanel Width="250" Margin="0,0,0,20" Height="180">
+                        <Button x:Name="buyBike" Height="100" Width="100" Click="buy_button" Background="AliceBlue" Margin="10,10,-10,-10" VerticalAlignment="Stretch" RenderTransformOrigin="0,0">
+                            <Image HorizontalAlignment="Center" Width="80" Source="/Assets/buyBike.png" />
+                        </Button>
+                        <Button x:Name="sellBike" Height="100" Width="100" RelativePanel.AlignRightWith="buyBike" Click="sell_button" Background="#FFFBFADF" Margin="140,0,-140,-110" VerticalAlignment="Bottom" >
+                            <Image HorizontalAlignment="Center" Width="80" Source="/Assets/sell.png"/>
+                        </Button>
+                        <Button x:Name="buy" Width="100" Height="35" Content="BUY" RelativePanel.AlignBottomWith="buyBike" Click="buy_button" Margin="10,0,-40,-54" VerticalAlignment="Bottom" Background="#FF00BB9C" Foreground="AliceBlue" FontSize="18.667" />
+                        <Button x:Name="sell" Width="100" Height="35" Content="SELL"  Click="sell_button" Margin="140,0,-140,-154" VerticalAlignment="Bottom" Background="#FFF4EB31" Foreground="#FFFBFADF" FontSize="18.667"/>
+                    </RelativePanel>
+                    <Path Data="M802.5,463.5 L1103.46,463.5" Fill="#FFA6A6AA" Height="1" Stretch="Fill" Stroke="Black" UseLayoutRounding="False" Width="301.958" Margin="0,0,0,10"/>
+                    <TextBlock Width="358" Height="112" x:Name="details" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center" LineHeight="25" FontFamily="Adobe Fan Heiti Std B" SelectionHighlightColor="#FF914D2C" Foreground="#FFDBE8FC">
+                    	<Run FontWeight="Bold" FontSize="24" Text="理念介绍"/>
+                    	<LineBreak/>
+                    	<LineBreak/>
+                    	<Run Text="让自行车不再被废置"/>
+                    	<LineBreak/>
+                    	<Run Text="让需要自行车的人能方便地买到所需要的车"/>
+                    </TextBlock>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
+
