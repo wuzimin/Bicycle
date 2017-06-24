@@ -189,8 +189,6 @@ namespace Bicycle
                 var request = args.Request;
                 request.Data.Properties.Title = ("we share!");
                 request.Data.Properties.Description = ("my bicycle, my favorite!");
-                //var photoFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///bicycle/Assets/dabai.jpg"));
-                //request.Data.SetStorageItems(new List<StorageFile> { photoFile });
                 string content = ("车辆类型：  " + title.Text
                                 + "\n价格：  " + price.Text
                                 + "\n使用年限：  " + age.Text
