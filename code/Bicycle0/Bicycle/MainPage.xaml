@@ -1,40 +1,4 @@
-﻿<!--<Page
-    x:Class="Bicycle.MainPage"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Bicycle"
-    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d" Foreground="#FFE21254">
-    <Page.TopAppBar>
-        <CommandBar>
-            <AppBarButton Icon="Contact" Label="appbarbutton"/>
-        </CommandBar>
-    </Page.TopAppBar>
-
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="100"/>
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-
-        <StackPanel>
-            <Image Source="Assets/bicycle.jpg" Grid.Row="0" Margin="0,47,0,0" d:LayoutOverrides="TopPosition, BottomPosition"/>
-            <RelativePanel Margin="-10,16,10,-16" Grid.Row="1">
-                <Button x:Name="buy" Content="买" HorizontalAlignment="Right" VerticalAlignment="Stretch" FontSize="48" Width="68"/>
-                <Button x:Name="sell" Content="卖" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="76" FontSize="26.667" RenderTransformOrigin="0.5,0.5" RelativePanel.AlignRightWithPanel="True"  Height="74"/>
-            </RelativePanel>
-            <Grid Background="#FF141F1C" VerticalAlignment="Bottom">
-                <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="理念介绍" VerticalAlignment="Top"  Height="50" FontSize="26.667" FontWeight="Bold" Grid.Row="1" d:LayoutOverrides="VerticalAlignment, LeftPosition, RightPosition" Foreground="#FFF7FBFA"/>
-                <TextBlock x:Name="textBlock2" TextWrapping="Wrap" Text="让自行车不再被废置，让需要自行车的人能方便地买到所需要的车" VerticalAlignment="Top" Margin="0,57,0,0" Height="60" FontSize="21.333" FontWeight="Bold" d:LayoutOverrides="LeftPosition, RightPosition" Foreground="#FF6A9793" FontFamily="迷你简丫丫"/>
-            </Grid>
-        </StackPanel>
-    </Grid>
-</Page>-->
-
-
-<Page
+﻿<Page
     x:Class="Bicycle.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
